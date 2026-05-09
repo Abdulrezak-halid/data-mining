@@ -1,1 +1,4 @@
-Data Mining Project
+# Data Mining Project
+
+- Apriori Algorithm
+- Clustering Algorithm
