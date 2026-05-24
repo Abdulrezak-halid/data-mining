@@ -1,4 +1,4 @@
-# Data Mining Project
+# Data Mining Project with Weka
 
 - Apriori Algorithm
 - Clustering Algorithm
